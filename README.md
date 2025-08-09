@@ -1,2 +1,2 @@
 # Image-Grid-Layout
-In this project, I create a grid layout using HTML and CSS
+The primary focus of this project is to help me learn and practice the CSS Grid layout technique, which is essential for creating responsive and flexible web layouts.
