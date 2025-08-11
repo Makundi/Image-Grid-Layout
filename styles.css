@@ -67,3 +67,23 @@
     filter: brightness(1);
     transition: filter 0.1s ease;
 }
+
+@media screen and (max-width: 768px) {
+    .image-grid {
+        grid-template-areas: 
+            "item1 item2 item3"
+            "item4 item5 item6";
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .image-grid {
+        grid-template-areas: 
+            "item1"
+            "item2"
+            "item3"
+            "item4"
+            "item5"
+            "item6";
+    }
+}
